@@ -14,8 +14,8 @@ To write a python program to implement quick sort using tha last element as pivo
 ```python
 /*
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: JEEVAGOWTHAM S
-Register Number: 212222230053
+Developed by: M JAYACHANDRAN
+Register Number: 212222240038
 */
 
 def qsort(arr,l,h):
